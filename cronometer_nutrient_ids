@@ -1,0 +1,452 @@
+[
+ {
+  "ID": -1205,
+  "Name": "Net Carbs",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": -205,
+  "Name": "unknown",
+  "Unit of Measurement": ""
+ },
+ {
+  "ID": 208,
+  "Name": "Energy",
+  "Unit of Measurement": "kcal"
+ },
+ {
+  "ID": 221,
+  "Name": "Alcohol",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 207,
+  "Name": "Ash",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 10011,
+  "Name": "Beta-Hydroxybutyrate",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 262,
+  "Name": "Caffeine",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 255,
+  "Name": "Water",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 205,
+  "Name": "Carbs",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 291,
+  "Name": "Fiber",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 209,
+  "Name": "Starch",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 269,
+  "Name": "Sugars",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 212,
+  "Name": "Fructose",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 287,
+  "Name": "Galactose",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 211,
+  "Name": "Glucose",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 213,
+  "Name": "Lactose",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 214,
+  "Name": "Maltose",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 210,
+  "Name": "Sucrose",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 10009,
+  "Name": "Added Sugars",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 10007,
+  "Name": "Sugar Alcohol",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 204,
+  "Name": "Fat",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 645,
+  "Name": "Monounsaturated",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 646,
+  "Name": "Polyunsaturated",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 10001,
+  "Name": "Omega-3",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 10002,
+  "Name": "Omega-6",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 606,
+  "Name": "Saturated",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 605,
+  "Name": "Trans-Fats",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 601,
+  "Name": "Cholesterol",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 636,
+  "Name": "Phytosterol",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 203,
+  "Name": "Protein",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 513,
+  "Name": "Alanine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 511,
+  "Name": "Arginine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 514,
+  "Name": "Aspartic acid",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 507,
+  "Name": "Cystine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 515,
+  "Name": "Glutamic acid",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 516,
+  "Name": "Glycine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 512,
+  "Name": "Histidine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 521,
+  "Name": "Hydroxyproline",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 503,
+  "Name": "Isoleucine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 504,
+  "Name": "Leucine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 505,
+  "Name": "Lysine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 506,
+  "Name": "Methionine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 508,
+  "Name": "Phenylalanine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 517,
+  "Name": "Proline",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 518,
+  "Name": "Serine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 502,
+  "Name": "Threonine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 501,
+  "Name": "Tryptophan",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 509,
+  "Name": "Tyrosine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 510,
+  "Name": "Valine",
+  "Unit of Measurement": "g"
+ },
+ {
+  "ID": 404,
+  "Name": "B1 (Thiamine)",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 405,
+  "Name": "B2 (Riboflavin)",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 406,
+  "Name": "B3 (Niacin)",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 410,
+  "Name": "B5 (Pantothenic Acid)",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 415,
+  "Name": "B6 (Pyridoxine)",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 418,
+  "Name": "B12 (Cobalamin)",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 10004,
+  "Name": "Biotin",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 421,
+  "Name": "Choline",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 417,
+  "Name": "Folate",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 318,
+  "Name": "Vitamin A",
+  "Unit of Measurement": "IU"
+ },
+ {
+  "ID": 322,
+  "Name": "Alpha-carotene",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 321,
+  "Name": "Beta-carotene",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 334,
+  "Name": "Beta-cryptoxanthin",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 338,
+  "Name": "Lutein+Zeaxanthin",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 337,
+  "Name": "Lycopene",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 319,
+  "Name": "Retinol",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 320,
+  "Name": "Retinol Activity Equivalent",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 401,
+  "Name": "Vitamin C",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 324,
+  "Name": "Vitamin D",
+  "Unit of Measurement": "IU"
+ },
+ {
+  "ID": 323,
+  "Name": "Vitamin E",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 341,
+  "Name": "Beta Tocopherol",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 343,
+  "Name": "Delta Tocopherol",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 342,
+  "Name": "Gamma Tocopherol",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 430,
+  "Name": "Vitamin K",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 301,
+  "Name": "Calcium",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 10003,
+  "Name": "Chromium",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 312,
+  "Name": "Copper",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 313,
+  "Name": "Fluoride",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 10005,
+  "Name": "Iodine",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 303,
+  "Name": "Iron",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 304,
+  "Name": "Magnesium",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 315,
+  "Name": "Manganese",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 10008,
+  "Name": "Molybdenum",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 305,
+  "Name": "Phosphorus",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 306,
+  "Name": "Potassium",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 317,
+  "Name": "Selenium",
+  "Unit of Measurement": "µg"
+ },
+ {
+  "ID": 307,
+  "Name": "Sodium",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": 309,
+  "Name": "Zinc",
+  "Unit of Measurement": "mg"
+ },
+ {
+  "ID": -221,
+  "Name": "unknown",
+  "Unit of Measurement": ""
+ },
+ {
+  "ID": -203,
+  "Name": "unknown",
+  "Unit of Measurement": ""
+ },
+ {
+  "ID": -204,
+  "Name": "unknown",
+  "Unit of Measurement": ""
+ }
+]
